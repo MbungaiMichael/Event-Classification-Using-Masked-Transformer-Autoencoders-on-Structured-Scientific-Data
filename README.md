@@ -1,0 +1,1 @@
+Dataset Source: The dataset used in this study is publicly available. Further details can be found at the UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
